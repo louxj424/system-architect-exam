@@ -18,6 +18,7 @@
 
 - 📋 [论文模版](./template/lecture_template.md)
 - 📝 [模拟题集](./simulation/)
+- 📅 [学习计划](./study_plan.md)
 
 ## 📖 使用说明
 
