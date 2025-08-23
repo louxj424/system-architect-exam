@@ -12,7 +12,7 @@
 | 2023年上半年 | [题目版](2023_first/comprehensive_knowledge_questions_only.md) \| [解析版](2023_first/comprehensive_knowledge.md) | [题目版](2023_first/case_analysis_questions_only.md) \| [解析版](2023_first/case_analysis.md) | [题目版](2023_first/lecture_writting.md) \| [解析版](2023_first/lecture_detail/) |
 | 2022年上半年 | [题目版](2022_first/comprehensive_knowledge_questions_only.md) \| [解析版](2022_first/comprehensive_knowledge.md) | [题目版](2022_first/case_analysis_questions_only.md) \| [解析版](2022_first/case_analysis.md) | [题目版](2022_first/lecture_writting.md) \| [解析版](2022_first/lecture_detail/) |
 | 2021年上半年 | [题目版](2021_first/comprehensive_knowledge_questions_only.md) \| [解析版](2021_first/comprehensive_knowledge.md) | [题目版](2021_first/case_analysis_questions_only.md) \| [解析版](2021_first/case_analysis.md) | [题目版](2021_first/lecture_writting.md) \| [解析版](2021_first/lecture_detail/) |
-| 2020年上半年 | - | [题目版](2020_first/case_analysis_questions_only.md) \| [解析版](2020_first/case_analysis.md) | [题目版](2020_first/lecture_writting.md) \| [解析版](2020_first/lecture_detail/) |
+| 2020年上半年 | [题目版](2020_first/comprehensive_knowledge_questions_only.md) \| [解析版](2020_first/comprehensive_knowledge.md)  | [题目版](2020_first/case_analysis_questions_only.md) \| [解析版](2020_first/case_analysis.md) | [题目版](2020_first/lecture_writting.md) \| [解析版](2020_first/lecture_detail/) |
 
 ## 📊 从历年真题探究命题趋势的变化（2021-2025）
 
