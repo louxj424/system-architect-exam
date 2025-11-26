@@ -6,7 +6,7 @@
 
 | 年份 | 📋 综合知识 | 📝 案例分析 | ✍️ 论文写作 |
 |------|-------------|-------------|-------------|
-| 2025年下半年 | [题目版](2025_second/comprehensive_knowledge_questions_only.md) \| [解析版](2025_second/comprehensive_knowledge.md) | [题目版](2025_second/case_analysis.md) \| [解析版](2025_second/case_analysis.md) | [题目版](2025_second/lecture_writting.md) \| [解析版](2025_second/lecture_detail/) |
+| 2025年下半年 | [题目版](2025_second/comprehensive_knowledge_questions_only.md) \| [解析版](2025_second/comprehensive_knowledge.md) | [题目版](2025_second/case_analysis_questions_only.md) \| [解析版](2025_second/case_analysis.md) | [题目版](2025_second/lecture_writting.md) \| [解析版](2025_second/lecture_detail/) |
 | 2025年上半年 | [题目版](2025_first/comprehensive_knowledge_questions_only.md) \| [解析版](2025_first/comprehensive_knowledge.md) | [题目版](2025_first/case_analysis_questions_only.md) \| [解析版](2025_first/case_analysis.md) | [题目版](2025_first/lecture_writting.md) \| [解析版](2025_first/lecture_detail/) |
 | 2024年下半年 | [题目版](2024_second/comprehensive_knowledge_questions_only.md) \| [解析版](2024_second/comprehensive_knowledge.md) | [题目版](2024_second/case_analysis_questions_only.md) \| [解析版](2024_second/case_analysis.md) | [题目版](2024_second/lecture_writting.md) \| [解析版](2024_second/lecture_detail/) |
 | 2024年上半年 | [题目版](2024_first/comprehensive_knowledge_questions_only.md) \| [解析版](2024_first/comprehensive_knowledge.md) | [题目版](2024_first/case_analysis_questions_only.md) \| [解析版](2024_first/case_analysis.md) | [题目版](2024_first/lecture_writting.md) \| [解析版](2024_first/lecture_detail/) |
