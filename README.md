@@ -14,6 +14,16 @@
 | 2022年上半年 | [题目版](2022_first/comprehensive_knowledge_questions_only.md) \| [解析版](2022_first/comprehensive_knowledge.md) | [题目版](2022_first/case_analysis_questions_only.md) \| [解析版](2022_first/case_analysis.md) | [题目版](2022_first/lecture_writting.md) \| [解析版](2022_first/lecture_detail/) |
 | 2021年上半年 | [题目版](2021_first/comprehensive_knowledge_questions_only.md) \| [解析版](2021_first/comprehensive_knowledge.md) | [题目版](2021_first/case_analysis_questions_only.md) \| [解析版](2021_first/case_analysis.md) | [题目版](2021_first/lecture_writting.md) \| [解析版](2021_first/lecture_detail/) |
 | 2020年上半年 | [题目版](2020_first/comprehensive_knowledge_questions_only.md) \| [解析版](2020_first/comprehensive_knowledge.md)  | [题目版](2020_first/case_analysis_questions_only.md) \| [解析版](2020_first/case_analysis.md) | [题目版](2020_first/lecture_writting.md) \| [解析版](2020_first/lecture_detail/) |
+| 2018年 | [综合知识](2020_before/2018年/2018年系统架构师考试科目一：综合知识.pdf) | [案例分析](2020_before/2018年/2018年系统架构师考试科目二：案例分析.pdf) | [论文写作](2020_before/2018年/2018年系统架构师考试科目三：论文真题.pdf) |
+| 2017年 | [综合知识](2020_before/2017年/2017年系统架构师考试科目一：综合知识.pdf) | [案例分析](2020_before/2017年/2017年系统架构师考试科目二：案例分析.pdf) | [论文写作](2020_before/2017年/2017年系统架构师考试科目三：论文真题.pdf) |
+| 2016年 | [综合知识](2020_before/2016年/2016年系统架构师考试科目一：综合知识.pdf) | [案例分析](2020_before/2016年/2016年系统架构师考试科目二：案例分析.pdf) | [论文写作](2020_before/2016年/2016年系统架构师考试科目三：论文真题.pdf) |
+| 2015年 | [综合知识](2020_before/2015年/2015年系统架构师考试科目一：综合知识.pdf) | [案例分析](2020_before/2015年/2015年系统架构师考试科目二：案例分析.pdf) | [论文写作](2020_before/2015年/2015年系统架构师考试科目三：论文真题.pdf) |
+| 2014年 | [综合知识](2020_before/2014年/2014年系统架构师考试科目一：综合知识.pdf) | [案例分析](2020_before/2014年/2014年系统架构师考试科目二：案例分析.pdf) | [论文写作](2020_before/2014年/2014年系统架构师考试科目三：论文真题.pdf) |
+| 2013年 | [综合知识](2020_before/2013年/2013年系统架构师考试科目一：综合知识.pdf) | [案例分析](2020_before/2013年/2013年系统架构师考试科目二：案例分析.pdf) | [论文写作](2020_before/2013年/2013年系统架构师考试科目三：论文真题.pdf) |
+| 2012年 | [综合知识](2020_before/2012年/2012年系统架构师考试科目一：综合知识.pdf) | [案例分析](2020_before/2012年/2012年系统架构师考试科目二：案例分析.pdf) | [论文写作](2020_before/2012年/2012年系统架构师考试科目三：论文真题.pdf) |
+| 2011年 | [综合知识](2020_before/2011年/2011年系统架构师考试科目一：综合知识.pdf) | [案例分析](2020_before/2011年/2011年系统架构师考试科目二：案例分析.pdf) | [论文写作](2020_before/2011年/2011年系统架构师考试科目三：论文真题.pdf) |
+| 2010年 | [综合知识](2020_before/2010年/2010年系统架构师考试科目一：综合知识.pdf) | [案例分析](2020_before/2010年/2010年系统架构师考试科目二：案例分析.pdf) | [论文写作](2020_before/2010年/2010年系统架构师考试科目三：论文真题.pdf) |
+| 2009年 | [综合知识](2020_before/2009年/2009年系统架构师考试科目一：综合知识.pdf) | [案例分析](2020_before/2009年/2009年系统架构师考试科目二：案例分析.pdf) | [论文写作](2020_before/2009年/2009年系统架构师考试科目三：论文真题.pdf) |
 
 ## 📊 从历年真题探究命题趋势的变化（2021-2025）
 
